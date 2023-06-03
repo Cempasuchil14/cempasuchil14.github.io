@@ -1,9 +1,4 @@
 theme: minima
-title: Propedeutico Maestría en Ciencia de datos
-author: Flora (copie el codigo del profe julio)
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: false
-plugins:
-  - jekyll-titles-from-headings
+ <h4> title: Propedeutico Maestría en Ciencia de datos
+ <h4> author: Flora (copie el codigo del profe julio)
+
